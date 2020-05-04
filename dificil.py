@@ -1,0 +1,1 @@
+print("Dificil" * 10)
